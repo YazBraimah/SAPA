@@ -1,0 +1,31 @@
+name: SAPA
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+  - r
+dependencies:
+  - _libgcc_mutex=0.1=conda_forge
+  - _openmp_mutex=4.5=2_gnu
+  - clustalw=2.1=h9f5acd7_7
+  - libgcc-ng=12.1.0=h8d9b700_16
+  - libgomp=12.1.0=h8d9b700_16
+  - libnsl=2.0.0=h7f98852_0
+  - libstdcxx-ng=12.1.0=ha89aaad_16
+  - libzlib=1.2.12=h166bdaf_2
+  - paml=4.9=hec16e2b_7
+  - perl=5.32.1=2_h7f98852_perl5
+  - perl-base=2.23=pl5321hdfd78af_2
+  - perl-bio-samtools=1.43=pl5321h7132678_3
+  - perl-bio-tools-phylo-paml=1.7.3=pl5321hdfd78af_3
+  - perl-bio-tools-run-alignment-clustalw=1.7.4=pl5321hdfd78af_3
+  - perl-bioperl-core=1.7.8=pl5321h9ee0642_0
+  - perl-bioperl-run=1.007003=pl5321hdfd78af_0
+  - perl-file-sort=1.01=pl5321hdfd78af_3
+  - perl-getopt-long=2.52=pl5321hdfd78af_0
+  - perl-io-string=1.08=pl5321hdfd78af_4
+  - perl-io-tty=1.16=pl5321hec16e2b_1
+  - perl-ipc-run=20200505.0=pl5321hdfd78af_0
+  - phast=1.5=hec16e2b_4
+  - zlib=1.2.12=h166bdaf_2
+prefix: /home/yahmed/miniconda3/envs/SAPA
